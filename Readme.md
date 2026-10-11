@@ -1,4 +1,4 @@
-# Game Recommendation System - Dhana
+# Game Recommendation System - Sravs
 Tech: Python, Pandas, Sklearn
 Output: GTA V -> Elden Ring, Valorant -> COD
 Chart: Minecraft 4.9 Highest Rating
